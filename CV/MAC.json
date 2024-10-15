@@ -8,7 +8,7 @@
     "profile": {
       "name": "Daniel",
       "surnames": "Sanguino",
-      "title": "Full Stack Developer | HTML | CSS | JavaScript | Typescript | GIT | React | Node.Js | Express.Js | Mongoose | Prisma | MongoDB | PostgreSQL | Next.Js | Jenkins | Vercel | Figma | Adobe PackSuite",
+      "title": "Software Developer & Graphic Designer",
       "description": "Full Stack Developer con más de 15 años de experiencia en diseño gráfico y comunicación. Ahora, he decidido adentrarme en el apasionante mundo del sector tech y he completado un máster intensivo de 8 meses en Assembler Institute of Technology, lo que me ha permitido adquirir las habilidades necesarias para destacarme en mi actual profesión.\n\nMe he reinventado profesionalmente completando 1200 horas de formación en el Assembler Institute of Technology. Durante este tiempo, trabajé en proyectos del mundo real basados principalmente en React, CSS, Next.js, Vite, Prisma, MongoDB y PostgreSQL, utilizando metodologías ágiles como Kanban y Scrum. Participé en codificación en pares, talleres y sesiones de codificación en vivo, lo que mejoró mis habilidades técnicas y capacidades de colaboración en un entorno de trabajo dinámico y real.\n\nMis objetivos profesionales incluyen trabajar y aprender continuamente para mantenerme actualizado en un campo en constante evolución.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/15/61f2dde9-1169-4c14-bc3e-3e8007194a1b_perfil-danisang-low.png",
@@ -32,117 +32,24 @@
     "jobs": [
       {
         "organization": {
-          "name": "Assembler Institute os Technology",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/c813f9c8-9016-4c23-8554-761166fd7ce8_linkedin-photo-63667.linkedin-photo-63667",
-            "alt": "24/06/06/c813f9c8-9016-4c23-8554-761166fd7ce8_linkedin-photo-63667.linkedin-photo-63667"
-          }
+          "name": "Assembler Institute os Technology"
         },
         "roles": [
           {
             "name": "Full Stack Developer",
             "startDate": "2023-10-01",
-            "finishDate": "2024-06-01",
+            "finishDate": "2024-06-30",
             "challenges": [
               {
                 "description": "▪ Trabajando como desarrollador Full Stack aplicando las últimas tecnologías.\n▪ Máster intensivo con más de 1200 horas de proyectos full stack orientados al mundo real basados en metodologías ágiles.\n▪ Más de 30 proyectos realizados con un profundo enfoque en la pila MERN y LAMP\n- Desarrollo de API's RESTful\n- Desarrollo de frontend : HTML, CSS , Javascript.\n- Librerías,frameworks: React, jQuery, Bootstrap, Tailwind.\n- Desarrollo backend: Javascript, SQL, MongoDB\n- Librerías,frameworks: Nodejs,Express, Mongoose, LAMPP\n- Control de versiones: Git, github.\n- Testing: jest, vitest.\n- Trabajar bajo un entorno ágil.\n- Arquitecturas de software : POO, MVC.\n\nÚltimos proyectos:\n▪ Apollofy : Diseñado y desarrollado una app de streaming de música usando React, NodeJs, ExpressJs, MongoDB, Auth0, Cloudinary, Jest, Jenkis siguiendo el patrón MVC.\n▪ MovieHub: Proyecto full stack basado en Next.js en la parte de frontend y express en backend con login de usuarios y operaciones CRUD implementando MVC y MySQL.\n▪ Ecommerce Forniture 472: Diseño y desarrollo de app para móvil y trablets de ecommerce usando React, Redux Toolkit. React hooks.\n▪ Rick & Morty: App diseñada con figma, desarrollada en vite y llamadas API."
               }
-            ],
-            "competences": [
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Figma",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "NextJS",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
             ]
           }
         ]
       },
       {
         "organization": {
-          "name": "Assembler Institute of Technology"
-        },
-        "roles": [
-          {
-            "name": "FullStack Developer",
-            "startDate": "2023-10-01",
-            "finishDate": "2024-06-01",
-            "challenges": [
-              {
-                "description": "Durante 1200 horas en Assembler Institute of Technology, trabajé en proyectos reales\nutilizando metodologías ágiles como Kanban y Scrum. Tecnologías HTML | CSS | JavaS-\ncript | Typescript | GIT | React | Node.Js | Express.Js | Mongoose | Prisma | MongoDB |\nPostgreSQL | Next.Js | Jenkins | Vercel | Figma, participé en pair coding, work- shops y\nsesiones de live coding, lo que me permitió mejorar mis habilidades técnicas y de\ncolaboración en un entorno laboral dinámico y real.\nProyectos:\n- Apollofy : Diseñado y desarrollado una app de streaming de música usando React,\nNodeJs, ExpressJs, MongoDB, Auth0, Cloudinary, Jest, Jenkis siguiendo el patrón\nMVC.\n- MovieHub: Proyecto full stack basado en Next.js en la parte de frontend y express en\nbackend con login de usuarios y operaciones CRUD implementando MVC y MySQL.\n- Ecommerce Forniture 472: Diseño y desarrollo de app para móvil y trablets de ecom-\nmerce usando React, Redux Toolkit. React hooks.\n- Rick & Morty: App diseñada con figma, desarrollada en vite y llamadas API."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "Figma",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Jenkins",
-                "type": "technology"
-              },
-              {
-                "name": "NextJS",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Sanicor",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/3cd403f1-6636-49be-a821-f63a07a4d4af_linkedin-photo-63667.linkedin-photo-63667",
-            "alt": "24/06/06/3cd403f1-6636-49be-a821-f63a07a4d4af_linkedin-photo-63667.linkedin-photo-63667"
-          }
+          "name": "Sanicor"
         },
         "roles": [
           {
@@ -159,11 +66,7 @@
       },
       {
         "organization": {
-          "name": "Gómez Beser",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/fd917896-24c6-449a-9201-ed5159bc290b_linkedin-photo-63667.linkedin-photo-63667",
-            "alt": "24/06/06/fd917896-24c6-449a-9201-ed5159bc290b_linkedin-photo-63667.linkedin-photo-63667"
-          }
+          "name": "Gómez Beser"
         },
         "roles": [
           {
@@ -180,11 +83,7 @@
       },
       {
         "organization": {
-          "name": "Gómez Beser",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/9c5d7ff8-627f-43d3-9ad4-a5b41f5a7f55_linkedin-photo-63667.linkedin-photo-63667",
-            "alt": "24/06/06/9c5d7ff8-627f-43d3-9ad4-a5b41f5a7f55_linkedin-photo-63667.linkedin-photo-63667"
-          }
+          "name": "Gómez Beser"
         },
         "roles": [
           {
@@ -193,7 +92,7 @@
             "finishDate": "2013-01-01",
             "challenges": [
               {
-                "description": "Skills: Adobe Photoshop · Marketing digital · Adobe Illustrator"
+                "description": "Skills: Adobe Illustrator · Adobe Photoshop · Marketing digital"
               }
             ]
           }
@@ -201,11 +100,7 @@
       },
       {
         "organization": {
-          "name": "Gómez Beser",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/81f7f812-69a4-4bdf-90cc-f9a14a6cd660_linkedin-photo-63667.linkedin-photo-63667",
-            "alt": "24/06/06/81f7f812-69a4-4bdf-90cc-f9a14a6cd660_linkedin-photo-63667.linkedin-photo-63667"
-          }
+          "name": "Gómez Beser"
         },
         "roles": [
           {
@@ -214,7 +109,7 @@
             "finishDate": "2013-01-01",
             "challenges": [
               {
-                "description": "Skills: Adobe Photoshop · Marketing digital · Adobe Illustrator"
+                "description": "Skills: Adobe Illustrator · Adobe Photoshop · Marketing digital"
               }
             ]
           }
@@ -301,7 +196,43 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe InDesign",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Auth0",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
           "type": "technology"
         }
       },
@@ -319,6 +250,60 @@
       },
       {
         "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Netlify",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prisma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -326,6 +311,12 @@
       {
         "skill": {
           "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vitest",
           "type": "technology"
         }
       }
@@ -347,11 +338,7 @@
         "name": "Master in software development",
         "startDate": "2023-10-01",
         "institution": {
-          "name": "Assembler Institute of Technology",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/9f6a305d-dc3f-4137-bb8a-3976e3f01bd7_linkedin-photo-63667.linkedin-photo-63667",
-            "alt": "24/06/06/9f6a305d-dc3f-4137-bb8a-3976e3f01bd7_linkedin-photo-63667.linkedin-photo-63667"
-          }
+          "name": "Assembler Institute of Technology"
         },
         "finishDate": "2024-06-30"
       }
