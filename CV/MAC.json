@@ -11,8 +11,8 @@
       "title": "Full Stack Developer | HTML | CSS | JavaScript | Typescript | GIT | React | Node.Js | Express.Js | Mongoose | Prisma | MongoDB | PostgreSQL | Next.Js | Jenkins | Vercel | Figma | Adobe PackSuite",
       "description": "Full Stack Developer con más de 15 años de experiencia en diseño gráfico y comunicación. Ahora, he decidido adentrarme en el apasionante mundo del sector tech y he completado un máster intensivo de 8 meses en Assembler Institute of Technology, lo que me ha permitido adquirir las habilidades necesarias para destacarme en mi actual profesión.\n\nMe he reinventado profesionalmente completando 1200 horas de formación en el Assembler Institute of Technology. Durante este tiempo, trabajé en proyectos del mundo real basados principalmente en React, CSS, Next.js, Vite, Prisma, MongoDB y PostgreSQL, utilizando metodologías ágiles como Kanban y Scrum. Participé en codificación en pares, talleres y sesiones de codificación en vivo, lo que mejoró mis habilidades técnicas y capacidades de colaboración en un entorno de trabajo dinámico y real.\n\nMis objetivos profesionales incluyen trabajar y aprender continuamente para mantenerme actualizado en un campo en constante evolución.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/3501ef20-3438-4a92-b359-aed2acc2d95b_linkedin-photo-63667.linkedin-photo-63667",
-        "alt": "24/06/06/3501ef20-3438-4a92-b359-aed2acc2d95b_linkedin-photo-63667.linkedin-photo-63667"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/15/61f2dde9-1169-4c14-bc3e-3e8007194a1b_perfil-danisang-low.png",
+        "alt": "perfil-daniSang-low.png"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
@@ -32,16 +32,20 @@
     "jobs": [
       {
         "organization": {
-          "name": "Assembler Institute of Technology"
+          "name": "Assembler Institute os Technology",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/c813f9c8-9016-4c23-8554-761166fd7ce8_linkedin-photo-63667.linkedin-photo-63667",
+            "alt": "24/06/06/c813f9c8-9016-4c23-8554-761166fd7ce8_linkedin-photo-63667.linkedin-photo-63667"
+          }
         },
         "roles": [
           {
-            "name": "FullStack Developer",
+            "name": "Full Stack Developer",
             "startDate": "2023-10-01",
             "finishDate": "2024-06-01",
             "challenges": [
               {
-                "description": "Durante 1200 horas en Assembler Institute of Technology, trabajé en proyectos reales\nutilizando metodologías ágiles como Kanban y Scrum. Tecnologías HTML | CSS | JavaS-\ncript | Typescript | GIT | React | Node.Js | Express.Js | Mongoose | Prisma | MongoDB |\nPostgreSQL | Next.Js | Jenkins | Vercel | Figma, participé en pair coding, work- shops y\nsesiones de live coding, lo que me permitió mejorar mis habilidades técnicas y de\ncolaboración en un entorno laboral dinámico y real.\nProyectos:\n- Apollofy : Diseñado y desarrollado una app de streaming de música usando React,\nNodeJs, ExpressJs, MongoDB, Auth0, Cloudinary, Jest, Jenkis siguiendo el patrón\nMVC.\n- MovieHub: Proyecto full stack basado en Next.js en la parte de frontend y express en\nbackend con login de usuarios y operaciones CRUD implementando MVC y MySQL.\n- Ecommerce Forniture 472: Diseño y desarrollo de app para móvil y trablets de ecom-\nmerce usando React, Redux Toolkit. React hooks.\n- Rick & Morty: App diseñada con figma, desarrollada en vite y llamadas API."
+                "description": "▪ Trabajando como desarrollador Full Stack aplicando las últimas tecnologías.\n▪ Máster intensivo con más de 1200 horas de proyectos full stack orientados al mundo real basados en metodologías ágiles.\n▪ Más de 30 proyectos realizados con un profundo enfoque en la pila MERN y LAMP\n- Desarrollo de API's RESTful\n- Desarrollo de frontend : HTML, CSS , Javascript.\n- Librerías,frameworks: React, jQuery, Bootstrap, Tailwind.\n- Desarrollo backend: Javascript, SQL, MongoDB\n- Librerías,frameworks: Nodejs,Express, Mongoose, LAMPP\n- Control de versiones: Git, github.\n- Testing: jest, vitest.\n- Trabajar bajo un entorno ágil.\n- Arquitecturas de software : POO, MVC.\n\nÚltimos proyectos:\n▪ Apollofy : Diseñado y desarrollado una app de streaming de música usando React, NodeJs, ExpressJs, MongoDB, Auth0, Cloudinary, Jest, Jenkis siguiendo el patrón MVC.\n▪ MovieHub: Proyecto full stack basado en Next.js en la parte de frontend y express en backend con login de usuarios y operaciones CRUD implementando MVC y MySQL.\n▪ Ecommerce Forniture 472: Diseño y desarrollo de app para móvil y trablets de ecommerce usando React, Redux Toolkit. React hooks.\n▪ Rick & Morty: App diseñada con figma, desarrollada en vite y llamadas API."
               }
             ],
             "competences": [
@@ -83,20 +87,16 @@
       },
       {
         "organization": {
-          "name": "Assembler Institute os Technology",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/c813f9c8-9016-4c23-8554-761166fd7ce8_linkedin-photo-63667.linkedin-photo-63667",
-            "alt": "24/06/06/c813f9c8-9016-4c23-8554-761166fd7ce8_linkedin-photo-63667.linkedin-photo-63667"
-          }
+          "name": "Assembler Institute of Technology"
         },
         "roles": [
           {
-            "name": "Full Stack Developer",
+            "name": "FullStack Developer",
             "startDate": "2023-10-01",
             "finishDate": "2024-06-01",
             "challenges": [
               {
-                "description": "▪ Trabajando como desarrollador Full Stack aplicando las últimas tecnologías.\n▪ Máster intensivo con más de 1200 horas de proyectos full stack orientados al mundo real basados en metodologías ágiles.\n▪ Más de 30 proyectos realizados con un profundo enfoque en la pila MERN y LAMP\n- Desarrollo de API's RESTful\n- Desarrollo de frontend : HTML, CSS , Javascript.\n- Librerías,frameworks: React, jQuery, Bootstrap, Tailwind.\n- Desarrollo backend: Javascript, SQL, MongoDB\n- Librerías,frameworks: Nodejs,Express, Mongoose, LAMPP\n- Control de versiones: Git, github.\n- Testing: jest, vitest.\n- Trabajar bajo un entorno ágil.\n- Arquitecturas de software : POO, MVC.\n\nÚltimos proyectos:\n▪ Apollofy : Diseñado y desarrollado una app de streaming de música usando React, NodeJs, ExpressJs, MongoDB, Auth0, Cloudinary, Jest, Jenkis siguiendo el patrón MVC.\n▪ MovieHub: Proyecto full stack basado en Next.js en la parte de frontend y express en backend con login de usuarios y operaciones CRUD implementando MVC y MySQL.\n▪ Ecommerce Forniture 472: Diseño y desarrollo de app para móvil y trablets de ecommerce usando React, Redux Toolkit. React hooks.\n▪ Rick & Morty: App diseñada con figma, desarrollada en vite y llamadas API."
+                "description": "Durante 1200 horas en Assembler Institute of Technology, trabajé en proyectos reales\nutilizando metodologías ágiles como Kanban y Scrum. Tecnologías HTML | CSS | JavaS-\ncript | Typescript | GIT | React | Node.Js | Express.Js | Mongoose | Prisma | MongoDB |\nPostgreSQL | Next.Js | Jenkins | Vercel | Figma, participé en pair coding, work- shops y\nsesiones de live coding, lo que me permitió mejorar mis habilidades técnicas y de\ncolaboración en un entorno laboral dinámico y real.\nProyectos:\n- Apollofy : Diseñado y desarrollado una app de streaming de música usando React,\nNodeJs, ExpressJs, MongoDB, Auth0, Cloudinary, Jest, Jenkis siguiendo el patrón\nMVC.\n- MovieHub: Proyecto full stack basado en Next.js en la parte de frontend y express en\nbackend con login de usuarios y operaciones CRUD implementando MVC y MySQL.\n- Ecommerce Forniture 472: Diseño y desarrollo de app para móvil y trablets de ecom-\nmerce usando React, Redux Toolkit. React hooks.\n- Rick & Morty: App diseñada con figma, desarrollada en vite y llamadas API."
               }
             ],
             "competences": [
@@ -182,13 +182,13 @@
         "organization": {
           "name": "Gómez Beser",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/81f7f812-69a4-4bdf-90cc-f9a14a6cd660_linkedin-photo-63667.linkedin-photo-63667",
-            "alt": "24/06/06/81f7f812-69a4-4bdf-90cc-f9a14a6cd660_linkedin-photo-63667.linkedin-photo-63667"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/9c5d7ff8-627f-43d3-9ad4-a5b41f5a7f55_linkedin-photo-63667.linkedin-photo-63667",
+            "alt": "24/06/06/9c5d7ff8-627f-43d3-9ad4-a5b41f5a7f55_linkedin-photo-63667.linkedin-photo-63667"
           }
         },
         "roles": [
           {
-            "name": "Marketing",
+            "name": "marketing",
             "startDate": "2012-01-01",
             "finishDate": "2013-01-01",
             "challenges": [
@@ -203,13 +203,13 @@
         "organization": {
           "name": "Gómez Beser",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/9c5d7ff8-627f-43d3-9ad4-a5b41f5a7f55_linkedin-photo-63667.linkedin-photo-63667",
-            "alt": "24/06/06/9c5d7ff8-627f-43d3-9ad4-a5b41f5a7f55_linkedin-photo-63667.linkedin-photo-63667"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/06/81f7f812-69a4-4bdf-90cc-f9a14a6cd660_linkedin-photo-63667.linkedin-photo-63667",
+            "alt": "24/06/06/81f7f812-69a4-4bdf-90cc-f9a14a6cd660_linkedin-photo-63667.linkedin-photo-63667"
           }
         },
         "roles": [
           {
-            "name": "marketing",
+            "name": "Marketing",
             "startDate": "2012-01-01",
             "finishDate": "2013-01-01",
             "challenges": [
@@ -454,9 +454,6 @@
           "URL": "https://linkedin.com/in/dani-sanguino",
           "type": "linkedin"
         }
-      ],
-      "contactMails": [
-        "danielsanguino1980@gmail.com"
       ]
     },
     "preferences": {
