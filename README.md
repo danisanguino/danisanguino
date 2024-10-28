@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sanguinodani" target="blank"><img src="https://img.shields.io/twitter/follow/@sanguinodani?logo=twitter&style=for-the-badge" alt="@sanguinodani" /></a> </p>
 
-<p>Soy un Full Stack Developer con más de 15 años de experiencia en diseño gráfico y comunicación. Ahora, he decidido adentrarme en el apasionante mundo del sector tech y he completado un máster intensivo de 8 meses en Assembler Institute of Technology, lo que me ha permitido adquirir las habilidades necesarias para destacarme en mi actual profesión.</p>
+<p>Mi nombre es Daniel Sanguino y soy Full Stack Developer con una sólida trayectoria de más de 15 años en marketing y diseño gráfico. Me he especializado en el desarrollo web, trabajando con tecnologías como JavaScript, TypeScript, React, Node.js, Express, Next.js, así como en bases de datos relacionales y no relacionales, usando ORM’s como Prisma y Mongoose.</p>
 <h3 align="left">Contact with me:</h3>
 <a href="mailto:danielsanguino1980@gmail.com">danielsanguino1980@gmail.com</a>
 <h3 align="left">Connect with me:</h3>
