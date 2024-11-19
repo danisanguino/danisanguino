@@ -87,7 +87,7 @@
         },
         "roles": [
           {
-            "name": "marketing",
+            "name": "Marketing",
             "startDate": "2012-01-01",
             "finishDate": "2013-01-01",
             "challenges": [
@@ -104,7 +104,7 @@
         },
         "roles": [
           {
-            "name": "Marketing",
+            "name": "marketing",
             "startDate": "2012-01-01",
             "finishDate": "2013-01-01",
             "challenges": [
@@ -405,6 +405,10 @@
         },
         {
           "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
           "type": "technology"
         }
       ],
