@@ -22,14 +22,17 @@
 <div>
   
 <h2>Proyectos</h2>
-<h3><a href="https://front-end-apollofy.netlify.app/" target="_blank">Apollofy Music App</a></h3>
+<h3><a href="https://github.com/danisanguino/apollofy-app-frontend" target="_blank">Apollofy Music App</a></h3>
 <p>Apollofy es una aplicación de reproducción de música diseñada para ofrecer una experiencia de usuario fluida y agradable. Nuestra aplicación es completamente receptiva, asegurando que puedas disfrutar de tu música favorita en cualquier dispositivo.</p> 
 
-<h3><a href="https://ai-title-generator-sang.netlify.app/" target="_blank">Creador Titulares con IA</a></h3>
+<h3><a href="https://ai-title-generator-sang.netlify.app/" target="_blank">AI Title Generator</a></h3>
 <p>AI Title Generator es una aplicación diseñada para generar títulos de manera eficiente a partir de bloques de texto, utilizando la tecnología de OpenAI. La herramienta permite seleccionar el idioma en el que se generará el titular, ofreciendo una experiencia personalizada y versátil.</p> 
 
 <h3><a href="https://weather-app-sanguino.netlify.app/" target="_blank">Weather App</a></h3>
 <p>Aplicación de clima que utiliza una API externa para mostrar la temperatura actual, el clima de hoy y el pronóstico de varios días. Incluye geolocalización automática para obtener la ubicación del usuario y mostrar datos meteorológicos en tiempo real.</p> 
+
+<h3><a href="https://github.com/danisanguino/mobile-store" target="_blank">Product API</a></h3>
+<p>Aplicación desarrollada con el stack MERN (MongoDB, Express.js, React y Node.js), diseñada para gestionar el control de stock de teléfonos móviles de manera eficiente. Ofrece funcionalidades como la ordenación por precio y por SKU, brindando una experiencia de uso intuitiva y sencilla. Su diseño vanguardista asegura una interfaz moderna y agradable al usuario.</p> 
 
 <h3><a href="https://glittering-seahorse-f581bb.netlify.app/" target="_blank">MovieHub App</a></h3>
 <p>MovieHub es una aplicación web responsive que permite gestionar y visualizar películas de manera eficiente.
